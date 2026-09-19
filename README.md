@@ -69,6 +69,7 @@ The table below is sorted by **GitHub Stars_Count (descending)**:
 | ⚙️ **[Reinattos/EPI-Detect](https://github.com/Reinattos/EPI-Detect)** | [![Stars](https://img.shields.io/github/stars/Reinattos/EPI-Detect?style=social&color=white)](https://github.com/Reinattos/EPI-Detect/stargazers) | Python / YOLOv8-pose | Lightweight pose and PPE detection pipeline optimized for CPU-based site camera inference. |
 | 💻 **[prodbykosta/ppe-safety-detection-ai](https://github.com/prodbykosta/ppe-safety-detection-ai)** | [![Stars](https://img.shields.io/github/stars/prodbykosta/ppe-safety-detection-ai?style=social&color=white)](https://github.com/prodbykosta/ppe-safety-detection-ai/stargazers) | Python / Streamlit | AI workplace safety dashboard with real-time video stream detection, object tracking, and violation logging. |
 | 🛡️ **[safetibase/safetibase](https://github.com/safetibase/safetibase)** | [![Stars](https://img.shields.io/github/stars/safetibase/safetibase?style=social&color=white)](https://github.com/safetibase/safetibase/stargazers) | C# / SharePoint | Award-winning open-source system (AGPL) for identifying, managing, and communicating health & safety hazards. |
+| 📋 **[braedonsaunders/beaconhs](https://github.com/braedonsaunders/beaconhs)** | [![Stars](https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=social&color=white)](https://github.com/braedonsaunders/beaconhs/stargazers) | TypeScript / Next.js | Open-source HSE platform for incidents, observations, permits, and jobsite safety workflows. |
 | 🤖 **[808cadger/construction-safety-ai](https://github.com/808cadger/construction-safety-ai)** | [![Stars](https://img.shields.io/github/stars/808cadger/construction-safety-ai?style=social&color=white)](https://github.com/808cadger/construction-safety-ai/stargazers) | Python / OpenCV | Open computer-vision solution for automated safety alerts and PPE compliance logging. |
 | 📈 **[jim-kinter/csat-construction-safety-analytics-tool](https://github.com/jim-kinter/csat-construction-safety-analytics-tool)** | [![Stars](https://img.shields.io/github/stars/jim-kinter/csat-construction-safety-analytics-tool?style=social&color=white)](https://github.com/jim-kinter/csat-construction-safety-analytics-tool/stargazers) | Python / R | Open analytics platform converting public OSHA incident datasets into predictive safety risk scores. |
 
@@ -106,3 +107,4 @@ This repository is a **community-curated index** and does not constitute formal 
 ---
 
 **Maintained with ❤️ for safety directors, EHS leaders, and construction technology engineers.**
+
